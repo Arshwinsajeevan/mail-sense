@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "subject": "Meeting request",
+      "body": "Hi Arshwin — are you free Friday 3–4pm for a haircut? If not, next week Tue afternoon works. — Priya"
+    },
+    {
+      "id": 2,
+      "subject": "Invoice #1234 - due Nov 30",
+      "body": "Dear Arshwin, your invoice #1234 for $150 is due on Nov 30. Please confirm payment."
+    },
+    {
+      "id": 3,
+      "subject": "Weekly team update",
+      "body": "Team — here are the updates for this week: we finished feature X, started Y, and plan Z next week."
+    },
+    {
+      "id": 4,
+      "subject": "Quick follow-up",
+      "body": "Can you send the draft by Monday? Thanks."
+    },
+    {
+      "id": 5,
+      "subject": "Schedule a call",
+      "body": "Hi, can we schedule a quick call next Wednesday morning to discuss the PR? Best, Raj."
+    },
+    {
+      "id": 6,
+      "subject": "Request for quote",
+      "body": "Hello Arshwin, please send a quote for 100 units of product A by Dec 5. Regards, Supplier."
+    }
+  ]
+  

@@ -1,0 +1,17 @@
+project:
+  name: "MailSense"
+  track: "Concierge"
+  author: "Arshwin sajeevan"
+  created_at: "2025-11-16"
+  license: "CC-BY-SA-4.0"
+environment:
+  python_version: "3.10"
+  required_packages:
+    - dateparser
+    - python-dateutil
+    - pandas
+    - pyyaml
+    - tqdm
+notes:
+  - "ADK integration: tools registered as summarize_email, extract_actions, create_task, schedule_event, compose_reply, log_action"
+  - "Storage: tasks.json, memory.json, calendar.json under root tasks folder"

@@ -1,0 +1,22 @@
+{
+    "memory": {
+      "user_profile": {
+        "name": "Arshwin",
+        "email": "peskingdom999@gmail.com",
+        "preferences": {
+          "preferred_hours": ["09:00-12:00", "15:00-18:00"],
+          "timezone": "Asia/Kolkata"
+        }
+      },
+      "recent_emails": [
+        {
+          "email_id": "e1",
+          "subject": "Meeting request",
+          "summary": "Request for haircut Fri 3-4pm",
+          "timestamp": "2025-11-16T10:00:00+05:30"
+        }
+      ],
+      "tasks_index": [ "t1", "t2" ]
+    }
+  }
+  
