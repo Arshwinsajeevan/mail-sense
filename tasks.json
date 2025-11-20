@@ -1,0 +1,69 @@
+{
+  "tasks": [
+    {
+      "task_id": "t-dbf1f1f9",
+      "title": "Schedule: Meeting request",
+      "description": "Hi Arshwin — are you free Friday 3–4pm for a haircut? If not, next week Tue afternoon works. — Priya",
+      "created_at": "2025-11-20T14:05:09.395071",
+      "due": "2026-03-20T16:00:00",
+      "status": "pending",
+      "source_email_id": "e-21cff4ea",
+      "priority": "medium",
+      "tags": [
+        "schedule"
+      ]
+    },
+    {
+      "task_id": "t-f279a265",
+      "title": "Invoice Action: Invoice #1234 - due Nov 30",
+      "description": "Dear Arshwin, your invoice #1234 for $150 is due on Nov 30. Please confirm payment.",
+      "created_at": "2025-11-20T14:05:09.631369",
+      "due": "1234-11-20T00:00:00",
+      "status": "pending",
+      "source_email_id": "e-527944b5",
+      "priority": "high",
+      "tags": [
+        "invoice"
+      ]
+    },
+    {
+      "task_id": "t-f7f6dfe8",
+      "title": "Task: Quick follow-up",
+      "description": "Can you send the draft by Monday? Thanks.",
+      "created_at": "2025-11-20T14:05:11.303518",
+      "due": "2025-11-24T00:00:00",
+      "status": "pending",
+      "source_email_id": "e-9d9ee2f9",
+      "priority": "medium",
+      "tags": [
+        "task"
+      ]
+    },
+    {
+      "task_id": "t-13a25406",
+      "title": "Schedule: Schedule a call",
+      "description": "Hi, can we schedule a quick call next Wednesday morning to discuss the PR? Best, Raj.",
+      "created_at": "2025-11-20T14:05:12.420758",
+      "due": "2025-11-26T00:00:00",
+      "status": "pending",
+      "source_email_id": "e-20c6ae57",
+      "priority": "medium",
+      "tags": [
+        "schedule"
+      ]
+    },
+    {
+      "task_id": "t-49dc97ce",
+      "title": "Task: Request for quote",
+      "description": "Hello Arshwin, please send a quote for 100 units of product A by Dec 5. Regards, Supplier.",
+      "created_at": "2025-11-20T14:05:12.669774",
+      "due": null,
+      "status": "pending",
+      "source_email_id": "e-d2935e6d",
+      "priority": "medium",
+      "tags": [
+        "task"
+      ]
+    }
+  ]
+}
